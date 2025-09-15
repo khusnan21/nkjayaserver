@@ -3,7 +3,7 @@ plugins {
 }
 
 android {
-    namespace 'com.nkjayanet.app'
+    namespace 'com.example.nkjayanet.app'
     compileSdk 34
 
     defaultConfig {
